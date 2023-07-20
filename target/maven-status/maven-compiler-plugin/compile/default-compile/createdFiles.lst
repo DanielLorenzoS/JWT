@@ -1,0 +1,11 @@
+com/JWT/entities/UserEntity.class
+com/JWT/entities/UserEntity$UserEntityBuilder.class
+com/JWT/controllers/request/CreateUserDTO.class
+com/JWT/entities/RoleEntity.class
+com/JWT/JwtApplication.class
+com/JWT/repositories/UserRepository.class
+com/JWT/entities/ERole.class
+com/JWT/controllers/IndexController.class
+com/JWT/entities/RoleEntity$RoleEntityBuilder.class
+com/JWT/repositories/RoleRepository.class
+com/JWT/security/SecurityConfig.class
