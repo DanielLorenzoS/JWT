@@ -5,5 +5,6 @@
 /home/dani/Documents/JWT/src/main/java/com/JWT/security/SecurityConfig.java
 /home/dani/Documents/JWT/src/main/java/com/JWT/controllers/request/CreateUserDTO.java
 /home/dani/Documents/JWT/src/main/java/com/JWT/repositories/RoleRepository.java
+/home/dani/Documents/JWT/src/main/java/com/JWT/security/jwt/JwtUtils.java
 /home/dani/Documents/JWT/src/main/java/com/JWT/JwtApplication.java
 /home/dani/Documents/JWT/src/main/java/com/JWT/entities/RoleEntity.java

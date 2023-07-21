@@ -9,3 +9,4 @@ com/JWT/controllers/IndexController.class
 com/JWT/entities/RoleEntity$RoleEntityBuilder.class
 com/JWT/repositories/RoleRepository.class
 com/JWT/security/SecurityConfig.class
+com/JWT/security/jwt/JwtUtils.class
